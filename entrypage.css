@@ -1,0 +1,171 @@
+*{
+    
+}
+
+header .top input{
+    margin-top: 250px;
+    height: 50px;
+    width: 400px;
+    margin-left: 100px;
+}
+
+header .links {
+    display: flex;
+    padding-left: 1300px;
+    list-style: none;
+    background-color: lightgray;
+    height: 35px;
+}
+
+header .links li{
+    padding-left: 30px;
+    list-style: none;
+    margin-top: 10px;
+    color: #000090;
+}
+
+.input button{
+    margin-left: 50px;
+    height: 40px;
+    color:  white;
+    background-color:  #000080;
+    
+   
+}
+
+header .top hr{
+    width: 100%;
+}
+
+
+.top {
+    margin-left: 40px; 
+    text-align: center;
+}
+
+.top p{
+   
+}
+header .input{
+    margin-left: 700px;
+    position: relative;
+}
+
+
+header .input div{
+    margin-left: 420px;
+    padding-bottom: ;
+}
+
+
+
+header .input input{
+    height: 38px;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: -20PX;
+    
+}
+
+header .input .search{
+    margin-right: -40px;
+}
+
+.down{
+    padding: 50px;
+    position: absolute;
+
+}
+
+.down p{
+   margin-left: 370px;
+}
+
+.write{
+    margin-top: 10px;
+}
+
+.write a {
+    color:  #000092;
+}
+
+.write div{
+    margin-top: 40px;
+    position: absolute;
+    font-size: 14px;
+}
+
+.write .box{
+    height: 170px;
+    width: 280px;
+    background: transparent;
+    background-color:  #f0f0f0;
+    position: absolute;
+}
+ 
+.write button{
+    width: 100px;
+    background-color: black;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+
+
+.firstrow{
+    display: flex;
+
+}
+
+.firstrow a{
+    margin-left: 370px;
+    color:  #000099;
+}
+
+
+
+.secondrow{
+    display: flex;
+
+}
+
+.secondrow a{
+    margin-left: 370px;
+    color:  #000099;
+}
+
+.secondrow{
+    display: flex;
+
+}
+
+footer{
+    margin-top: 370px;
+    color: white;
+    background-color:  #000040; 
+    height: 50px;
+   
+}
+
+footer a{
+    color: white;
+    
+}
+
+footer div{
+    display: flex;
+    margin-left:500px;
+    font-size: smaller;
+    
+}
+
+footer div a {
+    margin-left: 10px;
+    margin-top: 15px;
+
+}
+
